@@ -169,6 +169,8 @@ const navLinks = [
     },
    ];
    
+   const allCocktails = sliderLists;
+
    export {
     navLinks,
     cocktailLists,
@@ -180,4 +182,5 @@ const navLinks = [
     storeInfo,
     socials,
     sliderLists,
+    allCocktails,
    };
